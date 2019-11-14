@@ -1,0 +1,17 @@
+sqlalchemy
+ipython-sql
+psycopg2
+altair
+bokeh
+dash
+html5lib
+ipyleaflet
+lxml
+matplotlib
+pandas-profiling
+plotly
+python-fitparse
+seaborn
+dask
+jupyter_contrib_nbextensions
+
